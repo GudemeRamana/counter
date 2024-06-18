@@ -1,0 +1,15 @@
+ 
+.bg-container {
+    background-color: #f1f5f8;
+    border: 2px solid green;
+  } 
+  .counter-value {
+    font-size: 75px;
+    font-weight: 900;
+  }
+  .button_back{
+    margin:5px;
+    height: 50px;
+    border: 2px solid green;
+    border-radius:10px;
+  }
